@@ -42,7 +42,7 @@ For detailed installation instructions, refer to the **[original project's Quick
 
 ## 🙏 Credits
 
-* **Original Project:** [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) by Yi-Ting Chiu
+* **Original Project:** [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) 
 * **Live2D Models:** Provided by [Live2D Inc.](https://www.live2d.com/)
 
 ## 📜 License
