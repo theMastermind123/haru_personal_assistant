@@ -26,5 +26,37 @@
                 "": 1
             }
         }
+    },
+    {
+    "name": "haru",
+    "description": "Haru Greeter (official Live2D sample)",
+    "url": "/live2d-models/haru/runtime/haru_greeter_t05.model3.json",
+    "kScale": 0.5,
+    "initialXshift": 0,
+    "initialYshift": 0,
+    "idleMotionGroupName": "Idle",
+    "emotionMap": {
+        "neutral": "Idle",
+        "idle": "Idle",
+        "shy": "Shy",
+        "happy": "Happy",
+        "joy": "Happy",
+        "sad": "Sad",
+        "sadness": "Sad",
+        "angry": "Angry",
+        "anger": "Angry",
+        "surprise": "Surprise",
+        "surprised": "Surprise",
+        "shocked": "Shocked",
+        "worried": "Worried",
+        "fear": "Worried",
+        "flustered": "Flustered",
+        "pouting": "Pouting",
+        "greeting": "Greeting"
+    },
+    "tapMotions": {
+        "HitArea": { "Happy": 3, "Shy": 2, "Surprise": 1, "Greeting": 2 },
+        "HitArea2": { "Sad": 1, "Angry": 1, "Worried": 1, "Flustered": 1, "Shocked": 1, "Pouting": 1 }
     }
+}
 ]
