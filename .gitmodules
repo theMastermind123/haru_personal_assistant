@@ -2,6 +2,4 @@
 	path = frontend
 	url = https://github.com/Open-LLM-VTuber/Open-LLM-VTuber-Web
 	branch = build
-[submodule "electron_haru_frontend"]
-	path = electron_haru_frontend
-	url = https://github.com/theMastermind123/haru_frontend
+
