@@ -7,6 +7,7 @@ conf.yaml
 
 # ignore non-default live2d models
 /live2d-models/*
+!/live2d-models/haru
 !/live2d-models/mao_pro
 !/live2d-models/shizuku
 
